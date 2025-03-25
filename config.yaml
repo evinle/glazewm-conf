@@ -317,3 +317,5 @@ keybindings:
 
   - commands: ['shell-exec powershell']
     bindings: ['alt+`+1']
+  - commands: ['shell-exec explorer "https://"']
+    bindings: ['alt+`+2']
